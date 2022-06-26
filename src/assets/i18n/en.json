@@ -37,6 +37,7 @@
     "sign-in": "Sign In"
   },
   "signInPage": {
+    "title": "Sign In",
     "userAccount": "User Account",
     "userPassword": "User Password",
     "signInButton": "Sign In"

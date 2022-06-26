@@ -37,6 +37,7 @@
     "sign-in": "ログイン"
   },
   "signInPage": {
+    "title": "ログイン",
     "userAccount": "ユーザアカウント",
     "userPassword": "パスワード",
     "signInButton": "サインイン"
